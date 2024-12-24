@@ -277,6 +277,8 @@ section button a{
     .header .img .horn {
         margin-top: 16px;
     }
-
+      section{
+        width:40rem;
+    }
 
 }
